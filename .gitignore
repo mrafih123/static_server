@@ -1,0 +1,1 @@
+Nothing should be ignored in this case, as the changes consist primarily of image files (.jpg) and an HTML file, which are not typically ignored unless they are build artifacts. Since these appear to be source assets rather than generated files, they should be tracked.
